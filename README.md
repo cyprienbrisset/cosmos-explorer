@@ -1,4 +1,4 @@
-# PhotoWall React Project
+# Cosmos Explorer
 
 Ce projet est une application PhotoWall construite avec React, Vite, Tailwind CSS, Lucide-React, et Axios. L'application affiche les images issues de l'API APOD (Astronomy Picture of the Day) de la NASA.
 
